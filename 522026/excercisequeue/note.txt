@@ -1,0 +1,3 @@
+Bài 1. Sử dụng Queue hãy nhập vào danh sách các số nguyên. In ra các số nguyên tố có trong dãy theo thứ tự nhập vào
+
+Bài 2. Sử dụng danh sách liên kết xây dựng Queue các số nguyên (có các phương thức cơ bản enqueue, dequeue, first, empty). Áp dụng để viết chương trình chuyển số nguyên dương N thành chuỗi bit nhị phân.
